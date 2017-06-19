@@ -1,0 +1,2 @@
+ALTER TABLE Minions 
+ADD TownID INT

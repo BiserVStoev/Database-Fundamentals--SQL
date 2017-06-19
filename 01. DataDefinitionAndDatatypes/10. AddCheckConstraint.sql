@@ -1,0 +1,1 @@
+ALTER TABLE Users ADD CONSTRAINT chk_PasswordLength CHECK (LEN(Password) >= 5)
